@@ -1,7 +1,7 @@
 # Codewars
-My solutions of Codewars 
+Mis soluciones de codewars
 
-### Dificulty
+### Dificultad
 
 - 8Kyu DOING
 - 7Kyu TODO
@@ -11,3 +11,7 @@ My solutions of Codewars
 - 3Kyu TODO
 - 2Kyu TODO
 - 1Kyu TODO
+
+# Array.prototype
+En este apartado se muestra como funcionan los metodos de los arrays por dentro.
+
